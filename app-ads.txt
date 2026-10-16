@@ -1,0 +1,2 @@
+# app-ads.txt for Knowfone (app.knowfone). AdMob reads this file to confirm who may sell the app's ads.
+# The AdMob publisher line is added when the AdMob account exists (scripts/set-admob-ids.ps1 in the app repo).
