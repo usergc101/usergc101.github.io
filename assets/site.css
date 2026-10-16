@@ -197,3 +197,4 @@ footer .sp { margin-left: auto; }
   .scan .reading, .scan .part { opacity: 1; }
   .scan .beam { opacity: 0; }
 }
+a.store-soon { color: var(--text-dim); }
