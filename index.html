@@ -28,15 +28,73 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Knowfone",
-  "alternateName": "Knowfone: Used Phone Checker",
-  "operatingSystem": "Android 8.0 or newer",
-  "applicationCategory": "UtilitiesApplication",
-  "description": "Tests every part of a used Android phone in about 7 minutes and tells you whether it is good to buy, worth buying only at a lower price, or not worth buying.",
-  "url": "https://usergc101.github.io/",
-  "downloadUrl": "https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk",
-  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://usergc101.github.io/#org",
+      "name": "Knowfone",
+      "url": "https://usergc101.github.io/",
+      "logo": "https://usergc101.github.io/assets/icon-180.png",
+      "sameAs": [
+        "https://github.com/usergc101/usergc101.github.io"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://usergc101.github.io/#site",
+      "name": "Knowfone",
+      "url": "https://usergc101.github.io/",
+      "inLanguage": [
+        "en",
+        "am"
+      ],
+      "publisher": {
+        "@id": "https://usergc101.github.io/#org"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Knowfone",
+      "alternateName": [
+        "Knowfone: Used Phone Checker",
+        "Knowfone used phone test"
+      ],
+      "operatingSystem": "Android 8.0 or newer",
+      "applicationCategory": "UtilitiesApplication",
+      "applicationSubCategory": "Phone diagnostics",
+      "softwareVersion": "2.2.0",
+      "fileSize": "14 MB",
+      "inLanguage": "en",
+      "description": "Free Android app that checks a used phone before you buy it: tests every part in about 7 minutes and answers Good to buy, Buy only at a lower price, or Don't buy, with the reasons.",
+      "featureList": [
+        "Identity check: is the phone really the model it claims (processor, graphics, memory, screen, storage, cameras)",
+        "Security check signed by the phone's security chip up to Google's root",
+        "Touch screen test over every 7 mm of the glass with a dead-zone map",
+        "Dead pixel, line and burn-in test with full-screen colour pages; real refresh rate",
+        "Speaker and microphone test (the speaker plays, the microphone hears it)",
+        "Camera and flash test",
+        "Battery health against design capacity, temperature and voltage under load",
+        "Processor and memory stress test",
+        "Real storage size proven by writing and reading back data (catches fake storage)",
+        "Sensors, buttons, charging port, vibration, Wi-Fi, Bluetooth, GPS and SIM",
+        "Seller certificate with a QR code to share in listings"
+      ],
+      "screenshot": "https://usergc101.github.io/assets/certificate.png",
+      "image": "https://usergc101.github.io/assets/og.png",
+      "url": "https://usergc101.github.io/",
+      "downloadUrl": "https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk",
+      "installUrl": "https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "publisher": {
+        "@id": "https://usergc101.github.io/#org"
+      }
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
@@ -65,7 +123,7 @@
     <nav aria-label="Main">
       <a class="hide-sm" href="#tests">What it tests</a>
       <a class="hide-sm" href="#sellers">For sellers</a>
-      <a class="hide-sm" href="/guide/check-used-phone-before-buying.html">Buying guide</a>
+      <a class="hide-sm" href="/guide/">Guides</a>
       <a class="lang" href="/am/" hreflang="am" lang="am">አማርኛ</a>
     </nav>
   </div>
@@ -293,7 +351,7 @@
     <span>Knowfone</span>
     <a href="/privacy.html">Privacy</a>
     <a href="/terms.html">Terms</a>
-    <a href="/guide/check-used-phone-before-buying.html">Buying checklist</a>
+    <a href="/guide/">Guides</a>
     <a href="/am/" lang="am">አማርኛ</a>
     <span class="sp">Android 8.0 or newer</span>
   </div>

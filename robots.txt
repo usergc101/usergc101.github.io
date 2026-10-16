@@ -1,4 +1,32 @@
 User-agent: *
 Allow: /
 Disallow: /r/
+
+# AI assistants and answer engines are welcome to read and cite the site.
+User-agent: GPTBot
+Allow: /
+Disallow: /r/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /r/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /r/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /r/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /r/
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://usergc101.github.io/sitemap.xml

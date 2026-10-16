@@ -1,0 +1,47 @@
+# Knowfone
+
+> Knowfone is a free Android app for checking a used phone (or tablet) before you buy it. It tests every part of the phone in about 7 minutes and gives a plain answer: "Good to buy", "Buy only at a lower price" or "Don't buy", with the reasons and the numbers. It runs on the phone being checked, needs no account, and keeps reports on the phone.
+
+Knowfone is made for non-expert buyers and sellers of used phones, first in Ethiopia (Addis Ababa) and for anyone worldwide. The app is in English; the website is in English and Amharic. It works on Android 8.0 and newer, all brands (Samsung, Tecno, Infinix, itel, Xiaomi, Redmi, Oppo, Vivo, Realme, Motorola, Nokia, Pixel and others).
+
+## What it checks
+
+- Identity: whether the phone is really the model it claims. Compares the processor cores, graphics chip, memory, screen, storage and cameras with the real model, so copies (clones) of famous models stand out.
+- Security: asks the phone's security chip for a signed statement, checked up to Google's root, about whether the system is locked and unmodified.
+- Touch screen: "Follow the light" - the buyer's finger follows a light over every 7 mm of the glass; dead zones show on a map; ghost touches and multi-touch are checked.
+- Display: full-screen colour pages for dead pixels, lines and burn-in; real refresh rate.
+- Speakers and microphones: the speaker plays a sweep and the microphone hears it.
+- Cameras: every camera opened, focus, flash seen by the camera.
+- Battery: capacity against design capacity, temperature, voltage under load.
+- Processor and memory: stress test for stability and speed.
+- Storage: writes and reads back real data to prove the real size (catches fake storage).
+- Sensors, buttons, charging port, vibration, Wi-Fi, Bluetooth, GPS and SIM.
+
+## How it decides
+
+- Only confirmed problems change the answer; uncertain signals are listed as "worth a closer look".
+- Every number shows its proof: Proven (security chip), Measured, You saw it, or Phone says.
+- It never claims a phone is "fake"; it says what it measured, for example "not the processor this model uses".
+- It lists what no app can check: past water damage or repairs, whether a phone is stolen or blocked, and exactly how long it will last.
+
+## For sellers
+
+A seller runs a full check and shares a "seller certificate" (a picture with a QR code that opens the report summary) on Jiji, Telegram, Facebook Marketplace or any listing. Buyers can run Knowfone themselves when they meet.
+
+## Price and privacy
+
+Free. Paid for by ads that never run during a test and never appear before the answer; one optional ad unlocks the seller certificate (free if no ad is available). No account; reports stay on the phone and leave it only when the user shares them.
+
+## Links
+
+- Website and download: https://usergc101.github.io/
+- Direct download (APK): https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk
+- Amharic page: https://usergc101.github.io/am/
+- Guide - how to check a used phone before buying: https://usergc101.github.io/guide/check-used-phone-before-buying.html
+- Guide - original or clone: https://usergc101.github.io/guide/is-my-phone-original-or-a-clone.html
+- Guide - battery health on Android: https://usergc101.github.io/guide/check-battery-health-android.html
+- Guide - touch screen and dead pixel test: https://usergc101.github.io/guide/touch-screen-and-dead-pixel-test.html
+- Guide - fake storage check: https://usergc101.github.io/guide/fake-storage-check.html
+- Guide - best apps to check a used phone: https://usergc101.github.io/guide/best-apps-to-check-a-used-phone.html
+- Guide - sell a used phone faster: https://usergc101.github.io/guide/sell-used-phone-faster.html
+- Privacy policy: https://usergc101.github.io/privacy.html
