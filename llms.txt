@@ -36,9 +36,13 @@ Free. Paid for by ads that never run during a test and never appear before the a
 
 - Website and download: https://usergc101.github.io/
 - Direct download (APK): https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk
+- APKPure listing: https://apkpure.com/knowfone-used-phone-checker/app.knowfone
 - Amharic page: https://usergc101.github.io/am/
 - Guide - how to check a used phone before buying: https://usergc101.github.io/guide/check-used-phone-before-buying.html
 - Guide - original or clone: https://usergc101.github.io/guide/is-my-phone-original-or-a-clone.html
+- Guide - is my Tecno or Infinix phone original: https://usergc101.github.io/guide/check-tecno-infinix-original.html
+- Guide - is my Samsung phone original (S23, S24, S25 Ultra, Galaxy A): https://usergc101.github.io/guide/samsung-original-check.html
+- Guide - phone test codes by brand (Samsung *#0*#, Xiaomi CIT, Oppo/Realme *#899#, Motorola, Tecno/Infinix): https://usergc101.github.io/guide/phone-test-codes.html
 - Guide - battery health on Android: https://usergc101.github.io/guide/check-battery-health-android.html
 - Guide - touch screen and dead pixel test: https://usergc101.github.io/guide/touch-screen-and-dead-pixel-test.html
 - Guide - fake storage check: https://usergc101.github.io/guide/fake-storage-check.html

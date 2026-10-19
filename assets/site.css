@@ -168,6 +168,13 @@ section { padding: 64px 0; position: relative; }
 .article .meta { margin-top: 12px; color: var(--text-faint); font-size: 14px; }
 .callout { margin: 26px 0; padding: 20px 22px; border-radius: 18px; background: rgba(92, 225, 255, .07); border: 1px solid rgba(92, 225, 255, .3); }
 .callout p { color: var(--text); }
+.article table { width: 100%; margin: 18px 0; border-collapse: collapse; font-size: 15px; line-height: 1.5; }
+.article th, .article td { padding: 10px 12px 10px 0; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+.article th { color: var(--text-faint); font-weight: 600; font-size: 13px; }
+.article td:nth-child(2) { font-family: "JetBrains Mono", monospace; font-size: 14px; color: var(--xray); overflow-wrap: anywhere; }
+.article table.codes td:nth-child(2) { white-space: nowrap; overflow-wrap: normal; font-size: 13px; }
+.also { margin-top: 18px; color: var(--text-dim); font-size: 15px; }
+.also a { color: var(--text); }
 
 /* Footer */
 footer { border-top: 1px solid var(--line); padding: 34px 0 44px; font-size: 14px; color: var(--text-faint); }
