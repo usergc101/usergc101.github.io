@@ -12,3 +12,9 @@ Rules:
 - English and Amharic pages carry the same content; update both (Amharic needs a native read).
 - `r/index.html` decodes the app's report link format (app `share/ReportLink.kt`).
 - `_preview/` holds local design sources (store graphics) and is gitignored.
+- Generated pages: `test/*.html` (online phone tests; `tools/make_test_pages.py`, behaviour in
+  `assets/phone-tests.js`) and `phones/*.html` (one page per model from `tools/phones-2026.json`, a copy of
+  the app's `assets/specs/popular-2026.json`; `tools/make_phone_pages.py`). Edit the generator, rerun it,
+  then `python tools/make_sitemap.py`, and commit the HTML. No build step at serve time.
+- The owner does not want Knowfone tied to Telegram (2026-10-24): no Telegram promotion, links or
+  mentions on the site.

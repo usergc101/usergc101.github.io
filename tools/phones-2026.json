@@ -1,0 +1,2049 @@
+{
+  "schemaVersion": 1,
+  "devices": [
+    {
+      "id": "samsung-galaxy-a05",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A05",
+      "modelCodes": [
+        "SM-A055F",
+        "SM-A055M",
+        "SM-A055*"
+      ],
+      "deviceCodes": [
+        "a05m"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G85 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6
+      ],
+      "storageOptionsGb": [
+        64,
+        128
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1600,
+        "maxRefreshHz": 60,
+        "sizeInches": 6.7,
+        "panelFamily": "PLS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "depth",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "NONE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A05",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A05",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a05s",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A05s",
+      "modelCodes": [
+        "SM-A057F",
+        "SM-A057G",
+        "SM-A057M",
+        "SM-A057*"
+      ],
+      "deviceCodes": [
+        "a05s"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Qualcomm Snapdragon 680 (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6
+      ],
+      "storageOptionsGb": [
+        64,
+        128
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 1080,
+        "heightPx": 2400,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.7,
+        "panelFamily": "PLS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "back",
+          "role": "depth",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A05 and A05s",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A05",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a06",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A06",
+      "modelCodes": [
+        "SM-A065F",
+        "SM-A065M",
+        "SM-A065*"
+      ],
+      "deviceCodes": [
+        "a06"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G85 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6
+      ],
+      "storageOptionsGb": [
+        64,
+        128
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1600,
+        "maxRefreshHz": 60,
+        "sizeInches": 6.7,
+        "panelFamily": "PLS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "depth",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A06",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A06",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a15",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A15",
+      "modelCodes": [
+        "SM-A155F",
+        "SM-A155M",
+        "SM-A155N",
+        "SM-A155*"
+      ],
+      "deviceCodes": [
+        "a15"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G99 (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.5,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 5
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": null,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A15",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A15",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a15-5g",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A15 5G",
+      "modelCodes": [
+        "SM-A156B",
+        "SM-A156E",
+        "SM-A156M",
+        "SM-A156U",
+        "SM-A156U1",
+        "SM-A156W",
+        "SM-A1560",
+        "SM-A156*"
+      ],
+      "deviceCodes": [
+        "a15x"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Dimensity 6100+ (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        64,
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.5,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 5
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": null,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A15",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A15",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a16",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A16",
+      "modelCodes": [
+        "SM-A165F",
+        "SM-A165M",
+        "SM-A165N",
+        "SM-A165*"
+      ],
+      "deviceCodes": [
+        "a16"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G99 (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.7,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 5
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A16",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A16",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a16-5g",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A16 5G",
+      "modelCodes": [
+        "SM-A166B",
+        "SM-A166E",
+        "SM-A166M",
+        "SM-A166P",
+        "SM-A166U",
+        "SM-A166U1",
+        "SM-A166W",
+        "SM-A1660",
+        "SM-A166*"
+      ],
+      "deviceCodes": [
+        "a16x",
+        "a16xm"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Exynos 1330 (5 nm)",
+          "regions": "most markets"
+        },
+        {
+          "name": "MediaTek Dimensity 6300 (6 nm)",
+          "regions": "some markets"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.7,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 5
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A16",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A16",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a25-5g",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A25 5G",
+      "modelCodes": [
+        "SM-A256B",
+        "SM-A256E",
+        "SM-A256N",
+        "SM-A256U",
+        "SM-A256U1",
+        "SM-A2560",
+        "SM-A256*"
+      ],
+      "deviceCodes": [
+        "a25x"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Exynos 1280 (5 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.5,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 8
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A25 5G",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A25_5G",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ],
+      "notes": "The Japanese A25 5G (SM-A253, SC-53F, SCG33) is a different phone and is not covered here."
+    },
+    {
+      "id": "samsung-galaxy-a35-5g",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A35 5G",
+      "modelCodes": [
+        "SM-A356B",
+        "SM-A356E",
+        "SM-A356N",
+        "SM-A356U",
+        "SM-A356U1",
+        "SM-A356W",
+        "SM-A3560",
+        "SM-A356*"
+      ],
+      "deviceCodes": [
+        "a35x"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Exynos 1380 (5 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.6,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 8
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 5
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "UNDER_DISPLAY_OPTICAL",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A35 5G",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A35_5G",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a55-5g",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy A55 5G",
+      "modelCodes": [
+        "SM-A556B",
+        "SM-A556E",
+        "SM-A556V",
+        "SM-A5560",
+        "SM-A556*"
+      ],
+      "deviceCodes": [
+        "a55x"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Exynos 1480 (4 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        8,
+        12
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.6,
+        "panelFamily": "Super AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 12
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 5
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 32
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity"
+      ],
+      "fingerprint": "UNDER_DISPLAY_OPTICAL",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy A55",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A55",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s23-ultra",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy S23 Ultra",
+      "modelCodes": [
+        "SM-S918B",
+        "SM-S918N",
+        "SM-S918Q",
+        "SM-S918U",
+        "SM-S918U1",
+        "SM-S918W",
+        "SM-S9180",
+        "SM-S918*"
+      ],
+      "deviceCodes": [
+        "dm3q"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Qualcomm Snapdragon 8 Gen 2 for Galaxy (4 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        8,
+        12
+      ],
+      "storageOptionsGb": [
+        256,
+        512,
+        1024
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1440,
+        "heightPx": 3088,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.8,
+        "panelFamily": "Dynamic AMOLED 2X"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 4,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 200
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 12
+        },
+        {
+          "facing": "back",
+          "role": "tele",
+          "marketingMp": 10
+        },
+        {
+          "facing": "back",
+          "role": "tele",
+          "marketingMp": 10
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 12
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity",
+        "barometer"
+      ],
+      "fingerprint": "UNDER_DISPLAY_ULTRASONIC",
+      "nfc": true,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy S23 series",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S23",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s24-ultra",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy S24 Ultra",
+      "modelCodes": [
+        "SM-S928B",
+        "SM-S928N",
+        "SM-S928Q",
+        "SM-S928U",
+        "SM-S928U1",
+        "SM-S928W",
+        "SM-S9280",
+        "SM-S928*"
+      ],
+      "deviceCodes": [
+        "e3q"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Qualcomm Snapdragon 8 Gen 3 for Galaxy (4 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        12
+      ],
+      "storageOptionsGb": [
+        256,
+        512,
+        1024
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1440,
+        "heightPx": 3120,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.8,
+        "panelFamily": "Dynamic LTPO AMOLED 2X"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 4,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 200
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 12
+        },
+        {
+          "facing": "back",
+          "role": "tele",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "tele",
+          "marketingMp": 10
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 12
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity",
+        "barometer"
+      ],
+      "fingerprint": "UNDER_DISPLAY_ULTRASONIC",
+      "nfc": true,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy S24 series",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S24",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-s24",
+      "placeholder": false,
+      "manufacturer": "samsung",
+      "marketingName": "Samsung Galaxy S24",
+      "modelCodes": [
+        "SM-S921B",
+        "SM-S921N",
+        "SM-S921E",
+        "SM-S921Q",
+        "SM-S921U",
+        "SM-S921U1",
+        "SM-S921W",
+        "SM-S9210",
+        "SM-S921*"
+      ],
+      "deviceCodes": [
+        "e1s",
+        "e1q"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Exynos 2400 (4 nm)",
+          "regions": "SM-S921B/N (Build.DEVICE e1s)"
+        },
+        {
+          "name": "Qualcomm Snapdragon 8 Gen 3 for Galaxy (4 nm)",
+          "regions": "North America, China, Japan (Build.DEVICE e1q)"
+        }
+      ],
+      "ramOptionsGb": [
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256,
+        512
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2340,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.2,
+        "panelFamily": "Dynamic LTPO AMOLED 2X"
+      },
+      "batteryDesignMah": 4000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 12
+        },
+        {
+          "facing": "back",
+          "role": "tele",
+          "marketingMp": 10
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 12
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer",
+        "gyroscope",
+        "magnetometer",
+        "light",
+        "proximity",
+        "barometer"
+      ],
+      "fingerprint": "UNDER_DISPLAY_ULTRASONIC",
+      "nfc": true,
+      "dualSim": null,
+      "headphoneJack": false,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "Wikipedia, Samsung Galaxy S24 series",
+          "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_S24",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "tecno-spark-20",
+      "placeholder": false,
+      "manufacturer": "TECNO",
+      "marketingName": "TECNO SPARK 20",
+      "modelCodes": [
+        "TECNO KJ5",
+        "TECNO KJ5n",
+        "TECNO KJ5s"
+      ],
+      "deviceCodes": [
+        "TECNO-KJ5",
+        "TECNO-KJ5n",
+        "TECNO-KJ5s"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G85 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1612,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.56,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 32
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": false,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Tecno Spark 20 (read through a search summary)",
+          "url": "https://www.gsmarena.com/tecno_spark_20-12722.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "tecno-spark-30",
+      "placeholder": false,
+      "manufacturer": "TECNO",
+      "marketingName": "TECNO SPARK 30",
+      "modelCodes": [
+        "TECNO KL6"
+      ],
+      "deviceCodes": [
+        "TECNO-KL6"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G91 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 1080,
+        "heightPx": 2460,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.78,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 64
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Tecno Spark 30 (read through a search summary)",
+          "url": "https://www.gsmarena.com/tecno_spark_30-13356.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "tecno-camon-30",
+      "placeholder": false,
+      "manufacturer": "TECNO",
+      "marketingName": "TECNO CAMON 30",
+      "modelCodes": [
+        "TECNO CL6",
+        "TECNO CL6k",
+        "TECNO CL6s"
+      ],
+      "deviceCodes": [
+        "TECNO-CL6",
+        "TECNO-CL6k",
+        "TECNO-CL6s"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G99 Ultimate (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        8,
+        12
+      ],
+      "storageOptionsGb": [
+        256
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2436,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.78,
+        "panelFamily": "AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "depth",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 50
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "UNDER_DISPLAY_OPTICAL",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Tecno Camon 30 (read through a search summary)",
+          "url": "https://www.gsmarena.com/tecno_camon_30-12848.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "tecno-pop-8",
+      "placeholder": false,
+      "manufacturer": "TECNO",
+      "marketingName": "TECNO POP 8",
+      "modelCodes": [
+        "TECNO BG6h",
+        "TECNO BG6i",
+        "TECNO BG6m",
+        "TECNO BG6*"
+      ],
+      "deviceCodes": [
+        "TECNO-BG6h",
+        "TECNO-BG6i"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Unisoc T606 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        2,
+        3,
+        4
+      ],
+      "storageOptionsGb": [
+        64,
+        128
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1612,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.6,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 1,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 13
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": false,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Tecno Pop 8 (read through a search summary)",
+          "url": "https://www.gsmarena.com/tecno_pop_8-12644.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "infinix-hot-40i",
+      "placeholder": false,
+      "manufacturer": "INFINIX",
+      "marketingName": "Infinix HOT 40i",
+      "modelCodes": [
+        "Infinix X6528",
+        "Infinix X6528B"
+      ],
+      "deviceCodes": [
+        "Infinix-X6528",
+        "Infinix-X6528B"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Unisoc T606 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1612,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.56,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 32
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Infinix Hot 40i (read through a search summary)",
+          "url": "https://www.gsmarena.com/infinix_hot_40i-12731.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "infinix-hot-40",
+      "placeholder": false,
+      "manufacturer": "INFINIX",
+      "marketingName": "Infinix HOT 40",
+      "modelCodes": [
+        "Infinix X6836"
+      ],
+      "deviceCodes": [
+        "Infinix-X6836"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G88 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 1080,
+        "heightPx": 2460,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.78,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 32
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Infinix Hot 40 (read through a search summary)",
+          "url": "https://www.gsmarena.com/infinix_hot_40-12732.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "infinix-hot-50",
+      "placeholder": false,
+      "manufacturer": "INFINIX",
+      "marketingName": "Infinix HOT 50",
+      "modelCodes": [
+        "Infinix X6882",
+        "Infinix X6882B"
+      ],
+      "deviceCodes": [
+        "Infinix-X6882",
+        "Infinix-X6882B"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G100 (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 1080,
+        "heightPx": 2460,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.78,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "other",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": null,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Infinix Hot 50 4G (read through a search summary)",
+          "url": "https://www.gsmarena.com/infinix_hot_50_4g-13341.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "infinix-smart-8",
+      "placeholder": false,
+      "manufacturer": "INFINIX",
+      "marketingName": "Infinix SMART 8",
+      "modelCodes": [
+        "Infinix X6525",
+        "Infinix X6525D",
+        "Infinix X6525B"
+      ],
+      "deviceCodes": [
+        "Infinix-X6525",
+        "Infinix-X6525D",
+        "Infinix-X6525B"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Unisoc T606 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        2,
+        3,
+        4
+      ],
+      "storageOptionsGb": [
+        64,
+        128
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1612,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.6,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 13
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": false,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Infinix Smart 8 (read through a search summary)",
+          "url": "https://www.gsmarena.com/infinix_smart_8-12642.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "redmi-13c",
+      "placeholder": false,
+      "manufacturer": "Xiaomi",
+      "marketingName": "Redmi 13C",
+      "modelCodes": [
+        "23100RN82L",
+        "23106RN0DA",
+        "2311DRN14I"
+      ],
+      "deviceCodes": [
+        "gale"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G85 (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1600,
+        "maxRefreshHz": 90,
+        "sizeInches": 6.74,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 8
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Xiaomi Redmi 13C (read through a search summary)",
+          "url": "https://www.gsmarena.com/xiaomi_redmi_13c-12689.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "redmi-14c",
+      "placeholder": false,
+      "manufacturer": "Xiaomi",
+      "marketingName": "Redmi 14C",
+      "modelCodes": [
+        "2409BRN2CA",
+        "2409BRN2CL",
+        "2409BRN2CY"
+      ],
+      "deviceCodes": [
+        "pond",
+        "lake"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "MediaTek Helio G81-Ultra (12 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        4,
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        64,
+        128,
+        256
+      ],
+      "display": {
+        "type": "LCD",
+        "widthPx": 720,
+        "heightPx": 1640,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.88,
+        "panelFamily": "IPS LCD"
+      },
+      "batteryDesignMah": 5160,
+      "rearCameraCount": 2,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 50
+        },
+        {
+          "facing": "back",
+          "role": "other"
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 13
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "SIDE",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Xiaomi Redmi 14C (read through a search summary)",
+          "url": "https://www.gsmarena.com/xiaomi_redmi_14c-13291.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    },
+    {
+      "id": "redmi-note-13-4g",
+      "placeholder": false,
+      "manufacturer": "Xiaomi",
+      "marketingName": "Redmi Note 13 (4G)",
+      "modelCodes": [
+        "23129RAA4G",
+        "23129RA5FL",
+        "23124RA7EO"
+      ],
+      "deviceCodes": [
+        "sapphire",
+        "sapphiren"
+      ],
+      "productCodes": [],
+      "socOptions": [
+        {
+          "name": "Qualcomm Snapdragon 685 (6 nm)"
+        }
+      ],
+      "ramOptionsGb": [
+        6,
+        8
+      ],
+      "storageOptionsGb": [
+        128,
+        256,
+        512
+      ],
+      "display": {
+        "type": "OLED",
+        "widthPx": 1080,
+        "heightPx": 2400,
+        "maxRefreshHz": 120,
+        "sizeInches": 6.67,
+        "panelFamily": "AMOLED"
+      },
+      "batteryDesignMah": 5000,
+      "rearCameraCount": 3,
+      "frontCameraCount": 1,
+      "cameras": [
+        {
+          "facing": "back",
+          "role": "main",
+          "marketingMp": 108
+        },
+        {
+          "facing": "back",
+          "role": "ultra_wide",
+          "marketingMp": 8
+        },
+        {
+          "facing": "back",
+          "role": "macro",
+          "marketingMp": 2
+        },
+        {
+          "facing": "front",
+          "role": "main",
+          "marketingMp": 16
+        }
+      ],
+      "expectedSensors": [
+        "accelerometer"
+      ],
+      "fingerprint": "UNDER_DISPLAY_OPTICAL",
+      "nfc": null,
+      "dualSim": null,
+      "headphoneJack": true,
+      "stereoSpeakers": null,
+      "sources": [
+        {
+          "title": "GSMArena, Xiaomi Redmi Note 13 4G (read through a search summary)",
+          "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_4g-12750.php",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        },
+        {
+          "title": "Google Play supported devices list (Build.MODEL and Build.DEVICE per marketing name)",
+          "url": "https://storage.googleapis.com/play_public/supported_devices.csv",
+          "retrieved": "2026-10-09",
+          "kind": "database"
+        }
+      ]
+    }
+  ]
+}

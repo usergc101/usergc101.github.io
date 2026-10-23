@@ -26,7 +26,11 @@ Knowfone is made for non-expert buyers and sellers of used phones, first in Ethi
 
 ## For sellers
 
-A seller runs a full check and shares a "seller certificate" (a picture with a QR code that opens the report summary) on Jiji, Telegram, Facebook Marketplace or any listing. Buyers can run Knowfone themselves when they meet.
+A seller runs a full check and shares a "seller certificate" (a picture with a QR code that opens the report summary) on Jiji, Facebook Marketplace or any listing. Buyers can run Knowfone themselves when they meet.
+
+## Online phone test (no install)
+
+The website also has ten free tests that run in any phone's browser (Android or iPhone), made for checking a used phone before buying: https://usergc101.github.io/test/ . Each test has its own page, for example the touch screen test (https://usergc101.github.io/test/touch-screen-test.html), the dead pixel test (https://usergc101.github.io/test/dead-pixel-test.html) and the refresh rate test (https://usergc101.github.io/test/refresh-rate-test.html). Nothing is uploaded. A browser cannot read the processor, battery wear, real storage or security state; the Knowfone app does.
 
 ## Price and privacy
 
@@ -35,6 +39,8 @@ Free. Paid for by ads that never run during a test and never appear before the a
 ## Links
 
 - Website and download: https://usergc101.github.io/
+- Free online phone test (any phone, in the browser; no install): https://usergc101.github.io/test/ - dead pixel and screen colours, touch screen grid, multi-touch, refresh rate (60/90/120 Hz), speakers (left/right/sweep), microphone (level + playback), cameras and flash, vibration, sensors (tilt/compass/shake), charging port (does charging cut out when the plug moves)
+- Is my phone original? Real specs (processor, RAM, storage, screen, refresh rate, battery, cameras, model codes) and a 10-minute check for 24 popular models (Samsung Galaxy A05-A55, S23 Ultra, S24, S24 Ultra; Tecno Spark 20/30, Camon 30, Pop 8; Infinix Hot 40i/40/50, Smart 8; Redmi 13C, 14C, Note 13 4G): https://usergc101.github.io/phones/
 - Direct download (APK): https://github.com/usergc101/usergc101.github.io/releases/latest/download/knowfone.apk
 - APKPure listing: https://apkpure.com/knowfone-used-phone-checker/app.knowfone
 - Amharic page: https://usergc101.github.io/am/

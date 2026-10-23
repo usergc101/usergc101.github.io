@@ -11,6 +11,10 @@ account; reports stay on the phone.
 - APKPure: https://apkpure.com/knowfone-used-phone-checker/app.knowfone
 - Works on Android 8.0 and newer, all brands (Samsung, Tecno, Infinix, itel, Xiaomi, Oppo, Realme and more).
 
+Free tools on the site:
+- [Online phone test](https://usergc101.github.io/test/): 10 tests in any phone's browser (dead pixels, touch screen, multi-touch, refresh rate, speakers, microphone, cameras and flash, vibration, sensors, charging port)
+- [Is my phone original?](https://usergc101.github.io/phones/): real specs and a 10-minute check for 24 popular Samsung, Tecno, Infinix and Redmi phones
+
 Guides:
 - [How to check a used phone before you buy it](https://usergc101.github.io/guide/check-used-phone-before-buying.html)
 - [Original or clone: what is really inside a phone](https://usergc101.github.io/guide/is-my-phone-original-or-a-clone.html)
@@ -29,6 +33,8 @@ The website's files. Static files only, served by GitHub Pages from `main`. Prev
   from the part of the link after `#`, in the browser; nothing is sent to a server. The format is
   defined in the app's `share/ReportLink.kt`; change both together.
 - `guide/`: buying guides (search traffic).
+- `test/`: online phone tests (`assets/phone-tests.js`; pages written by `tools/make_test_pages.py`).
+- `phones/`: model pages written by `tools/make_phone_pages.py` from `tools/phones-2026.json`.
 - `privacy.html`, `terms.html`: required by Google Play and AdMob.
 - `app-ads.txt`: AdMob's seller check; written by the app repo's `scripts/set-admob-ids.ps1`.
 - `google4039bdc75cf29da7.html`: Google Search Console ownership file. Keep it.
